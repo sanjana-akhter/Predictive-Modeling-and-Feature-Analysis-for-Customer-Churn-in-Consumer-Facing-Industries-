@@ -1,0 +1,3 @@
+Best Variant (by Test F1): All Features
+F1=0.6354, Precision=0.5284, Recall=0.7968, ROC_AUC=0.8473, AP=0.6637
+Saved as: /content/drive/MyDrive/CSE 4262 Project/LGBM Model/LightGBM – All Features.pkl
