@@ -1,0 +1,3 @@
+Best Variant (by Test F1): Top 11 Features
+F1=0.6309, Precision=0.5269, Recall=0.7861, ROC_AUC=0.8444, AP=0.6594
+Saved as: /content/drive/MyDrive/CSE 4262 Project/RF Model/Random Forest/Random Forest – Top 11 Features.pkl
