@@ -1,4 +1,5 @@
 Predictive Modeling and Feature Analysis for Customer Churn
+
 📌 Project Overview
 
 Customer churn is a critical challenge in consumer-facing industries such as telecommunications, banking, e-commerce, and subscription-based services. This project focuses on building predictive models to identify customers who are likely to churn and analyzing key features that influence customer retention.
